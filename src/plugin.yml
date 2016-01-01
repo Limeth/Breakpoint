@@ -1,0 +1,38 @@
+name: Breakpoint
+version: 1.2.4
+main: cz.projectsurvive.me.limeth.breakpoint.Breakpoint
+depend: [ProtocolLib]
+soft-depend: [NametagEdit]
+author: Limeth
+commands:
+    BP:
+        description: Admin commands for Breakpoint
+    helpop:
+        description: Contacts the admins
+        aliases: [pomoc]
+    clan:
+        description: Used for clan commands
+        aliases: [clans, klan, klany]
+    achievements:
+        description: Shows players achievements
+        aliases: [achievement, odznak, odznaky]
+    top:
+        description: Shows the best players
+        aliases: [nejlepsi, naj, najlepsie, najlepsi, nej]
+    topclans:
+        description: Shows the best clans
+        aliases: [topklan, topklany, topclan, clantop, nejlepsiklan, nejlepsiklany, nejklan, nejklany, klannej, klannejlepsi, najklan, najklany, klannaj, najlepsieklan, najlepsieklany, klannajlepsie, najlepsiklan, najlepsiklany, klannajlepsi]
+    rank:
+        description: Shows information about a player
+        aliases: [player, stat, stats, rank, info, hrac]
+    gm:
+        description: Switches your gamemode between adventure and creative
+    skull:
+        description: Changes the look of a skull
+        aliases: [skin, head, skull, lebka, hlava]
+    fly:
+        description: Povoli letani
+        aliases: [let, flying]
+    cw:
+        description: Povoli letani
+        aliases: [clanwars, kv, kw, cv, klanvalky, kalnovevalky, kb, cb]
