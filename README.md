@@ -1,4 +1,4 @@
-# OpenBreakpoint
+# Breakpoint
 
 This is the first ever Minecraft mini-game I (Limeth) made.
 I learned to program better in Java while writing this Bukkit plugin.
